@@ -18,9 +18,33 @@ install the req
  pip install -r requirements.txt
 ```
 
+```bash
 git init
+```
 
+```bash
 dvc init
-dvc add data_given/winequality.csv
-git add .
+```
+
+```bash
+dvc add data_given/winequality.csv`
+```
+
+```bash
+git add .`
+```
+
+```bash
 git commit -m"first commit"
+```
+
+```bash
+git add .
+git commit -m "update Readme.md"
+```
+
+```bash
+git remote add origin https://github.com/MedAliRommene/simp...
+git branch -M main
+git push origin main
+```
