@@ -66,7 +66,7 @@ for rebuilding -
 tox -r
 ```
 
-pytest command
+pytest 
 
 ```bash
 pytest -v
